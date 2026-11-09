@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Usman Virk, Senior Software Engineer in Germany with 7+ years of experience">
+  <img src="./assets/usman-virk-banner.png" width="100%" alt="Usman Virk, Senior Software Engineer in Germany with 7+ years of experience">
 </p>
 
 I build software end to end: backend services, web and mobile clients, data models, and the deployment and monitoring around them. I have 7+ years of experience, and this profile keeps growing as I add projects across more of that work.
