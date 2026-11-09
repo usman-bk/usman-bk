@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Usman Virk, Senior Software Engineer, with three projects: offline-basket, price-watch and k8s-rollout">
+  <img src="./assets/banner.png" width="100%" alt="Usman Virk, Senior Software Engineer in Germany with 7+ years of experience, working from frontend to cloud">
 </p>
 
 I build software end to end: backend services, web and mobile clients, data models, and the deployment and monitoring around them. I have 7+ years of experience, and this profile keeps growing as I add projects across more of that work.
 
-Each project says what it covers and where it stops. Together they carry 568 automated tests, and the ones that need Postgres, Redis or RabbitMQ run against the real service.
+Each project says what it covers and where it stops. Together they carry 568 automated tests, and the ones that need a database or a queue run against the real service.
 
 _These projects were built with AI assistance._
 
@@ -14,13 +14,13 @@ _These projects were built with AI assistance._
 | --- | --- |
 | [offline-basket](https://github.com/usman-bk/offline-basket) | A cart that survives a dead signal: 200 offline actions, settled once |
 | [query-plans](https://github.com/usman-bk/query-plans) | Four queries fixed, including a textbook N+1 fix that ran 600 times slower |
-| [price-watch](https://github.com/usman-bk/price-watch) | One feature across Go, React Native and Vue, with a generated contract |
+| [price-watch](https://github.com/usman-bk/price-watch) | One feature across a service, a mobile app and a web page, with a generated contract |
 
 ## Mobile and clients
 
 - [push-fanout](https://github.com/usman-bk/push-fanout): one price drop to 40,000 devices, one notification per person
 - [mobile-bff](https://github.com/usman-bk/mobile-bff): payloads cut from 270 KB to 3.4 KB, with the budget enforced by a test
-- [ts-api-client](https://github.com/usman-bk/ts-api-client): a React Native API client with single-flight refresh and full jitter
+- [ts-api-client](https://github.com/usman-bk/ts-api-client): the API client a mobile app uses, with single-flight refresh and full jitter
 
 ## Reliability
 
