@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Usman Virk, Senior Software Engineer, with a request path through offline-basket, outbox and push-fanout">
+  <img src="./assets/hero.svg" width="100%" alt="Usman Virk, Senior Software Engineer, with three projects: offline-basket, price-watch and k8s-rollout">
 </p>
 
-I build backend services, the data models under them, and the deployment and monitoring around them. Most of this profile is about what happens when a network, a queue or a rollout misbehaves.
+I build software end to end: backend services, web and mobile clients, data models, and the deployment and monitoring around them. I have 7+ years of experience, and this profile keeps growing as I add projects across more of that work.
 
 Each project says what it covers and where it stops. Together they carry 568 automated tests, and the ones that need Postgres, Redis or RabbitMQ run against the real service.
 
@@ -14,13 +14,13 @@ _These projects were built with AI assistance._
 | --- | --- |
 | [offline-basket](https://github.com/usman-bk/offline-basket) | A cart that survives a dead signal: 200 offline actions, settled once |
 | [query-plans](https://github.com/usman-bk/query-plans) | Four queries fixed, including a textbook N+1 fix that ran 600 times slower |
-| [push-fanout](https://github.com/usman-bk/push-fanout) | One price drop to 40,000 devices, one notification per person |
+| [price-watch](https://github.com/usman-bk/price-watch) | One feature across Go, React Native and Vue, with a generated contract |
 
-## Mobile backends
+## Mobile and clients
 
+- [push-fanout](https://github.com/usman-bk/push-fanout): one price drop to 40,000 devices, one notification per person
 - [mobile-bff](https://github.com/usman-bk/mobile-bff): payloads cut from 270 KB to 3.4 KB, with the budget enforced by a test
 - [ts-api-client](https://github.com/usman-bk/ts-api-client): a React Native API client with single-flight refresh and full jitter
-- [price-watch](https://github.com/usman-bk/price-watch): one feature across Go, React Native and Vue, with a generated contract
 
 ## Reliability
 
