@@ -4,7 +4,7 @@
 
 I build software end to end: backend services, web and mobile clients, data models, and the deployment and monitoring around them. I have 7+ years of experience, and this profile keeps growing as I add projects across more of that work.
 
-Each project says what it covers and where it stops. Together they carry 839 automated tests, and the ones that need a database or a queue run against the real service.
+Each project says what it covers and where it stops. Together they carry 1,004 automated tests, and the ones that need a database or a queue run against the real service.
 
 _These projects were built with AI assistance._
 
@@ -28,6 +28,7 @@ _These projects were built with AI assistance._
 - [seat-holds](https://github.com/usman-bk/seat-holds): a seat that cannot be sold twice, a group that gets all its seats or none, and a seat map that updates live
 - [shift-swaps](https://github.com/usman-bk/shift-swaps): a team rota where two approvals at the same moment cannot put one person on two shifts
 - [outage-notes](https://github.com/usman-bk/outage-notes): a public status page that stays up when the service it reports on is down, and never shows green because it could not check
+- [release-watch](https://github.com/usman-bk/release-watch): a release that takes live traffic only as far as its measurements allow, and goes back by itself when they say no
 - [cache-stampede](https://github.com/usman-bk/cache-stampede): 2,000 origin calls collapsed into 1 when a popular key expires
 - [outbox](https://github.com/usman-bk/outbox): a database write and its published message that cannot disagree
 - [k8s-rollout](https://github.com/usman-bk/k8s-rollout): why rolling deploys return 502s, and the drain order that stops it
