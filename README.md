@@ -4,7 +4,7 @@
 
 I build software end to end: backend services, web and mobile clients, data models, and the deployment and monitoring around them. I have 7+ years of experience, and this profile keeps growing as I add projects across more of that work.
 
-Each project says what it covers and where it stops. Together they carry 613 automated tests, and the ones that need a database or a queue run against the real service.
+Each project says what it covers and where it stops. Together they carry 652 automated tests, and the ones that need a database or a queue run against the real service.
 
 _These projects were built with AI assistance._
 
@@ -25,6 +25,7 @@ _These projects were built with AI assistance._
 ## Reliability
 
 - [payout-runs](https://github.com/usman-bk/payout-runs): seller payouts that pay once, even when a worker is killed mid transfer
+- [seat-holds](https://github.com/usman-bk/seat-holds): a seat that cannot be sold twice, a group that gets all its seats or none, and a seat map that updates live
 - [cache-stampede](https://github.com/usman-bk/cache-stampede): 2,000 origin calls collapsed into 1 when a popular key expires
 - [outbox](https://github.com/usman-bk/outbox): a database write and its published message that cannot disagree
 - [k8s-rollout](https://github.com/usman-bk/k8s-rollout): why rolling deploys return 502s, and the drain order that stops it
